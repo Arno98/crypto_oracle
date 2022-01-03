@@ -1,0 +1,30 @@
+.form {
+	width: 300px;
+	margin: 100px auto;
+}
+
+.form p input {
+	border-radius: 10px;
+}
+
+form p label, form p input {
+	text-align: center;
+}
+
+.btn {
+	width: 100%;
+}
+
+.footer {
+	bottom: 0;
+	position: absolute;
+	height: 50px;
+}
+
+.btn {
+	border-radius: 10px;
+}
+
+h3 {
+	text-align: center;
+}
